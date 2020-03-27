@@ -1,6 +1,6 @@
 # vue2
 
-> A Vue.js project 做个项目学习练手用
+> A Vue.js project 模仿知乎界面的blog，webpack+vue2
 
 ## Build Setup
 
